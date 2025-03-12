@@ -203,53 +203,58 @@ section.sobre .flex {
 }
 
 /* ESTILO DO PORTFÓLIO */
-section.portfolio {
-    padding: 80px 4%;
-    box-shadow: 0 0 40px 10px #ffffff27;
-}
 
-section.portfolio .flex {
-    justify-content: space-around;
-    margin-top: 60px;
-}
 
-.img-port {
-    width: 360px;
-    height: 460px;
-    background-color: #e45f5fa1;
-    background-size: cover;
-    background-position: 100% 0%;
-    transition: 5s;
-    cursor: pointer;
-    border-radius: 40px;
-    position: relative;
-}
+                    /* REATIVAR QUANDO TIVER MAIS PROJETOS */
+                    /* section.portfolio {
+                        padding: 80px 4%;
+                        box-shadow: 0 0 40px 10px #ffffff27;
+                    }
 
-.img-port:hover {
-    background-position: 100% 100%;
-}
+                    section.portfolio .flex {
+                        justify-content: space-around;
+                        margin-top: 60px;
+                    }
 
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.774);
-    border-radius: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 24px;
-    font-weight: 600;
-    color: #fff;
-    opacity: 0;
-    transition: .5s;
-}
+                    .img-port {
+                        width: 360px;
+                        height: 460px;
+                        background-color: #e45f5fa1;
+                        background-size: cover;
+                        background-position: 100% 0%;
+                        transition: 5s;
+                        cursor: pointer;
+                        border-radius: 40px;
+                        position: relative;
+                    }
 
-.overlay:hover {
-    opacity: 1;
-}
+                    .img-port:hover {
+                        background-position: 100% 100%;
+                    }
+
+                    .overlay {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        background-color: rgba(0, 0, 0, 0.774);
+                        border-radius: 40px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-size: 24px;
+                        font-weight: 600;
+                        color: #fff;
+                        opacity: 0;
+                        transition: .5s;
+                    }
+
+                    .overlay:hover {
+                        opacity: 1;
+                    } */
+
+                    /* REATIVAR QUANDO TIVER MAIS PROJETOS */
 
 /* ESTILO DO FORMULÁRIO */
 section.formulario {
